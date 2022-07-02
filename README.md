@@ -1,6 +1,7 @@
+![COVER_OOP_PYTHON3](https://user-images.githubusercontent.com/28512795/176995826-7571407b-769e-4a09-9184-37448605a6e4.png)
+
 # OOP-Python
 
----
 
 Object Oriented Programming is a programming paradigm.
 
